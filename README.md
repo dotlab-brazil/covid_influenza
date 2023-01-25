@@ -1,4 +1,4 @@
-# covid_influenza_co-infection
+#COVID-19 AND INFELUENZA CO-INFECTION
 
 SIVEP GRIPE BRASIL de 2020 a 2021. 
 
